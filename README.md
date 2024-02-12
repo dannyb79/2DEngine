@@ -16,7 +16,7 @@ A 2D engine to use with SDL2 and ffmpeg library
 
 ### Build & Run
 
-Build with Visual Studio C++
+Build with Visual Studio C++ 2008
 
 
 ## Credit & License 
